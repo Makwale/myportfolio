@@ -6,6 +6,7 @@
 */
 (function() {
   "use strict";
+  
 
   /**
    * Easy selector helper function
@@ -31,6 +32,7 @@
         selectEl.addEventListener(type, listener)
       }
     }
+  
   }
 
   /**
